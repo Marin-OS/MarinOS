@@ -13,6 +13,8 @@ Für das Programmieren:
 * gcc
 * git
 * Node.js (mit npm)
+* Nano
+* Vim
 
 Für Bild berarbeitung gibt es:
 * Krita
