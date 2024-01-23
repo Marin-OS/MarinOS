@@ -23,6 +23,11 @@ Vorinstallierte Webbrowser sind:
 * Chromium
 
 Als Office suite gibt es OnlyOffice 
+
+Mailclient ist Mozilla Thunderbird
+
+Und für Medien Wiedergabe gibt es den VLC Media Player
+
 Instaliert für die Vernverwaltung sind:
 * Openssh
 * Xrdp
