@@ -26,7 +26,9 @@ Vorinstallierte Webbrowser sind:
 
 Als Office suite gibt es OnlyOffice 
 
-Mailclient ist Mozilla Thunderbird
+Der Mailclient ist Mozilla Thunderbird
+
+für die Visulation von Betriebssytemen giebt es Virtualbox
 
 Und für Medien Wiedergabe gibt es den VLC Media Player
 
